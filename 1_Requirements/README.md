@@ -10,6 +10,7 @@ Ultrasonic sensors work by sending out a sound wave at a frequency above the ran
 
 ### Features / Components
 
+
 * ATmega 328: This is the microcontroller used in this project. It has 8-bit with a maximum clock frequency of 20MHz, 32KB program FLASH, and 2KB of RAM.
 * HC-SR04: This is the ultrasonic sensor which is used in this project. This economical sensor provides 2cm to 400cm of non-contact measurement functionality with a    ranging accuracy that can reach up to 3mm. Each HC-SR04 module includes an ultrasonic transmitter, a receiver and a control circuit. Its operating voltage is 5V.
 * I2C to parallel :This is the I2C is a serial communication protocol, so data is transferred bit by bit along a single wire (the SDA line).I2C is synchronous, so the output of bits is synchronized to the sampling of bits by a clock signal shared between the master and the slave. The clock signal is always controlled by the master.
@@ -17,3 +18,5 @@ Ultrasonic sensors work by sending out a sound wave at a frequency above the ran
 * BJT-8 : This is the bipolar junction transistor. The primary function of BJT is to increase the strength of a weak signal, i.e., it acts as an amplifier.
 * Resistor: Two resistors of 2.2kΩ  is used in this project. A resistor controls the flow of the electrical current within a circuit.
 * LED: This light emitting dioide is used as it produces light by passing the electric current through a semiconducting material.
+
+
