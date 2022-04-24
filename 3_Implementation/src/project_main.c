@@ -1,5 +1,5 @@
 #include "project_lcd.h"
-#include "project_t.h"
+#include "project_timer.h"
 #include "project_usart.h"
 
 //#define DEBUG_ON
