@@ -39,4 +39,27 @@ Ultrasonic sensors work by sending out a sound wave at a frequency above the ran
 
 * Any other noises in the frequency of which ultrasonic sensor works can cause disturbances in the sensor's output.
 
+# 4W's and 1H
 
+## What 
+Obstacle setection by measuring the distance of obstacle with the help of HC-SR04 Ultrasounic sensor, ATMEGA328 microcontroller, LCD Display and I2C bus.
+
+## Where
+It is used in automative industries.
+
+## Why
+It is used as a saafety measure and for comfortness of the users.
+
+## When
+It is used when there is need to detect a object and get an idea of distace of the obstacles.
+
+## How
+It is operated using a microcontroller and ultrasonic sensore.
+
+# Details of Requirements
+
+## High Level Requirements
+![image](https://user-images.githubusercontent.com/71258149/164974370-388490d8-2300-4bf7-b398-7508c09733c7.png)
+
+## Low Level Requirments
+![image](https://user-images.githubusercontent.com/71258149/164974404-f7a3890b-a090-4c72-929d-5fe28665c022.png)
