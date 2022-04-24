@@ -8,15 +8,17 @@ An Obstacle detection is the process of using sensors to detect objects or terra
 Ultrasonic sensors work by sending out a sound wave at a frequency above the range of human hearing. The transducer of the sensor acts as a microphone to receive and send the ultrasonic sound. Ultrasonic sensors, like many others, use a single transducer to send a pulse and to receive the echo.  The sensor determines the distance to a target by measuring time lapses between the sending and receiving of the ultrasonic pulse. The working principle of this module is quite simple. It sends an ultrasonic pulse  which travels through the air and if there is an obstacle or object, it will bounce back to the sensor.  By calculating the travel time and the speed of sound, the distance can be calculated. This way it detects the obstacle.
 
 
-### Features / Components
+### Features and Components
 
 
-* ATmega 328: This is the microcontroller used in this project. It has 8-bit with a maximum clock frequency of 20MHz, 32KB program FLASH, and 2KB of RAM.
+* ATmega 328-2: This is the microcontroller used in this project. It has 8-bit with a maximum clock frequency of 20MHz, 32KB program FLASH, and 2KB of RAM.
 * HC-SR04: This is the ultrasonic sensor which is used in this project. This economical sensor provides 2cm to 400cm of non-contact measurement functionality with a    ranging accuracy that can reach up to 3mm. Each HC-SR04 module includes an ultrasonic transmitter, a receiver and a control circuit. Its operating voltage is 5V.
 * I2C to parallel :This is the I2C is a serial communication protocol, so data is transferred bit by bit along a single wire (the SDA line).I2C is synchronous, so the output of bits is synchronized to the sampling of bits by a clock signal shared between the master and the slave. The clock signal is always controlled by the master.
-* Hd44780-3 : This is the 16*2 display. The 16×2 translates o a display 16 characters per line in 2 such lines. In this LCD each character is displayed in a 5×7 pixel matrix. 
-* BJT-8 : This is the bipolar junction transistor. The primary function of BJT is to increase the strength of a weak signal, i.e., it acts as an amplifier.
+* Hd44780-4 : This is the 16*2 display. The 16×2 translates o a display 16 characters per line in 2 such lines. In this LCD each character is displayed in a 5×7 pixel matrix. 
+* BJT : This is the bipolar junction transistor. The primary function of BJT is to increase the strength of a weak signal, i.e., it acts as an amplifier.
 * Resistor: Two resistors of 2.2kΩ  is used in this project. A resistor controls the flow of the electrical current within a circuit.
 * LED: This light emitting dioide is used as it produces light by passing the electric current through a semiconducting material.
 
+#### SWOT Analysis
 
+# Strength
