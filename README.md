@@ -8,7 +8,7 @@
 
 ## Build - Linux
 
-[![Build CI-Linux](https://github.com/Darshitha-S20/M2_Obstacle_Detector/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Darshitha-S20/M2_Obstacle_Detector/actions/workflows/c-cpp.yml) 
+[![Build CI-Linux](https://github.com/Darshitha-S20/M2_Obstacle_Detector/actions/workflows/build_linux.yml/badge.svg)](https://github.com/Darshitha-S20/M2_Obstacle_Detector/actions/workflows/build_linux.yml)
  
 ## Cppchek Analysis
 
